@@ -130,6 +130,7 @@ img {
 		max-width: 344px;
 		margin-left: auto;
 		margin-right: auto;
+		margin-top:56px;
 		display: grid;
 		grid-template-columns: auto;
 		grid-template-rows: auto auto auto;
